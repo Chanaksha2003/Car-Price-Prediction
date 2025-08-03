@@ -71,10 +71,11 @@ A html page opens and enter the values according to the HTML file and the price 
 <img src="https://github.com/iyashk/Car-Price-Prediction/blob/main/images/img_2.png?raw=true"  />
 </p>
 <a name="dataset"></a>
-
+ 
 ## 5.Dataset
 
 The data we have used in this project was downloaded from <a href = "https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho" style="text-decoration:none;" target="_blank"> Kaggle</a>. It was uploaded from Cardekho.com .
 The dataset consists of 301 rows and 9 columns with no null values. Column data
 consist of independent Features. The independent features contain both categorical and numeric
 values.
+
