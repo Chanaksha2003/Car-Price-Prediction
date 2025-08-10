@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 app = Flask(__name__)
 model = pickle.load(open('D:/Car-Price-Prediction/src/random_forest_regression_model.pkl', 'rb'))
 @app.route('/',methods=['GET'])
-def Home():
+def Home(): 
     return render_template('index.html')
 
 
@@ -51,4 +51,5 @@ def predict():
 
 if __name__=="__main__":
     app.run(debug=True)
+
 
