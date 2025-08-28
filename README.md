@@ -5,7 +5,7 @@ A model to predict the price of a used car should be developed in order to asses
 ## Steps:  
  
 1. [ Creating a new Conda env. ](#step1) 
-2. [ Training. ](#step2)
+2. [ Training. ](#step2) 
 3. [Execution](#step3)
 4. [Testing of the Model.](#step4)
 5. [Dataset](#dataset)
@@ -78,6 +78,7 @@ The data we have used in this project was downloaded from <a href = "https://www
 The dataset consists of 301 rows and 9 columns with no null values. Column data
 consist of independent Features. The independent features contain both categorical and numeric
 values.
+
 
 
 
