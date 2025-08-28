@@ -2,7 +2,7 @@
 
 A model to predict the price of a used car should be developed in order to assess its value based on a variety of characteristics. Several factors affect the price of a used car, such as company, model, year, transmission, distance driven, fuel type, seller type, and owner type. As a result, it is crucial to know the car's actual market value before purchasing or selling it..
 
-## Steps:
+## Steps: 
  
 1. [ Creating a new Conda env. ](#step1) 
 2. [ Training. ](#step2)
@@ -78,6 +78,7 @@ The data we have used in this project was downloaded from <a href = "https://www
 The dataset consists of 301 rows and 9 columns with no null values. Column data
 consist of independent Features. The independent features contain both categorical and numeric
 values.
+
 
 
 
